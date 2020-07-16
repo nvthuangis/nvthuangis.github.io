@@ -1,2 +1,2 @@
 # nvthuangis.github.io
-Lear about website on Github
+Learn about website on Github
